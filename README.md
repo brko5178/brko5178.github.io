@@ -6,19 +6,23 @@ This webpage serves as a log for all the work Brandon Kohrt has and will be doin
       Website is up and running :)
 
 # Week 2:
-      Last week we began the course, so I took so time to take the syllabus quiz and read through the course and expectations. 
-      I also started thinking about some ideas for the project. My number one idea is to use my access to data I have through 
-      my job as a research assistant for the Adolescent Brain and Cognitive Development Study (ABCD). If you would like to learn more about the study itself you can look at this link.
+      Last week we began the course, so I took so time to take the syllabus quiz and read through the 
+      course and expectations. I also started thinking about some ideas for the project. My number one 
+      idea is to use my access to data I have through my job as a research assistant for the Adolescent 
+      Brain and Cognitive Development Study (ABCD). If you would like to learn
+      more about the study itself you can look at this link.
+      
+      Essentially, this is a longitudinal study that follows the same 12,000 participants every year from 
+      ages 10-20. The study is still in the data collection phase and most participants are now 17-19, but 
+      many papers (more than 1300!) have been uploaded with the data that has been collected thus far. My 
+      job involves working with participants and collecting the data and uploading it to a very large database 
+      that scientists from around the world can apply to use!
 
       
-      Essentially, this is a longitudinal study that follows the same 12,000 participants every year from ages 10-20. The study 
-      is still in the data collection phase and most participants are now 17-19, but many papers (more than 1300!) have been uploaded 
-      with the data that has been collected thus far. My job involves working with participants and collecting the data and uploading it to a very large database that scientists from around the world can apply to use!
-
-      
-      Recently, I also got access to the data for the the latest data release, and this class is a perfect reason to do a side project 
-      with the data and practice my data analysis skills. I am still figuring out exactly what I want to look at, but I think drug and 
-      alcohol use will be what I want to focus on. This is a very large and complex dataset, so I think it will provide a good amount 
+      Recently, I also got access to the data for the the latest data release, and this class is a perfect 
+      reason to do a side project with the data and practice my data analysis skills. I am still figuring 
+      out exactly what I want to look at, but I think drug and alcohol use will be what I want to focus on. 
+      This is a very large and complex dataset, so I think it will provide a good amount 
       of work and help me apply to graduate school in the future or apply for a job!
 
       
