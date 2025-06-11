@@ -9,8 +9,7 @@ This webpage serves as a log for all the work Brandon Kohrt has and will be doin
       Last week we began the course, so I took so time to take the syllabus quiz and read through the 
       course and expectations. I also started thinking about some ideas for the project. My number one 
       idea is to use my access to data I have through my job as a research assistant for the Adolescent 
-      Brain and Cognitive Development Study (ABCD). If you would like to learn
-      more about the study itself you can look at this link.
+      Brain and Cognitive Development Study (ABCD). 
       
       Essentially, this is a longitudinal study that follows the same 12,000 participants every year from 
       ages 10-20. The study is still in the data collection phase and most participants are now 17-19, but 
@@ -29,8 +28,20 @@ This webpage serves as a log for all the work Brandon Kohrt has and will be doin
       This week I will continue working on my website github page and start focusing in on what my project will look at.
 
 # Week 3:
-      Last week I really decided what to do my project on. I would like to look at correlations between success in school and substance use particularly in the group of kids who are labeled "gifted" or "talented". I will also be using the ABCD Study data I have access to.
+      Last week I really decided what to do my project on. I would like to look at correlations between success in school and substance use particularly in the group of kids who are labeled "gifted" or "talented". I will         also be using the ABCD Study data I have access to.
 
       This week I woked on and turned in my project proposal which outlined the project, my goals, what I will personally get out of it, and measurable acheivements for the project. 
 
       A relatively short update this week, but I plan to start wokring on the project in the upcoming week which will have a more substantive update!
+
+# Week 4:
+      Last week I completed my project proposal and submitted it for review and zeroed in on what I want to focus on for my research project.
+      
+      This week, I peer reviewed other projects in the class and reviewed my own feedback. I have tweaked my research question 
+      and will be focusing on children who are in gifted and talented programs in school, thier sucesss in school, and if there
+      is any correlation in their success in school with the use of drugs and alcohol. My hypothesis is that students labeled gifted and talented
+      who do not do well in school will have increased subsatance use compared to gited and talented students who do succeed in school. It may also 
+      be a good idea to compare students who are not in gifted and talented programs as well. This week I also started looking into the drove ABCD data.
+      My biggest blocker is all of the datasets do not have easy-to-read names, so I have been emailing with a colleague who works in processing the data 
+      to point me in the direction I need.
+
