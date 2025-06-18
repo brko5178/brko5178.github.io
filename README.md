@@ -1,20 +1,28 @@
 # Brandon Kohrt Personal Website      
 
 
-<p float:"right">
-  <img src="profilepic2.jpg" alt="Prifle"/>
-</p>
+<img alignment="center" src="profilepic2.jpg" alt="Profle"/> <a href="Brandon.Kohrt.Resume.pdf" target="_blank">
 
-<a href="Brandon.Kohrt.Resume.pdf" target="_blank">Resume</a>
+Resume</a> | Email: brko5178@colorado.edu | Github: [brko5178](https://github.com/brko5178)
 
-Email: brko5178@colorado.edu  Github: [brko5178](https://github.com/brko5178)
+# Background
+  I originally graduated from CU Boulder in 2023 with a degree in neuroscience and one in psychology. I currently work as a research assistant for the The Adolescent Brain and Cognitive Development study, which is a nationwide longitudinal study that is looking at the brain development of adolescents aged 10-20. 
+  
+I started in the University of Colorado Boulder Computer Science Program program to learn some skills to help me in research and because I was very interested in software engineering and will be graduating in August of 2025. I hope to combine my previous neuro/psych experience with the CU Boulder Computer Science Program to work in the healthcare technology space or go to graduate school for computational neuroscience! 
  
-This webpage serves as a log for all the work Brandon Kohrt has and will be doing in CU Boulder's Professional Development in Computer Science class.
-Currently working to get all the information down and then will focus on aesthetics!
+
+*Currently working to get all the information down and then will focus on aesthetics!*
+
+# Purpose
+This page serves as a personal website to showcase some of my past and current projects, and particularly focuses on my project for my last computer science class: Professional Development!
 
 This class is focusing on a self-selected project. I have chosen to do a research project using data from the Adolescent Brain and Cognitive Development (ABCD)
 study focusing on gifted and talented children and thier alchohol and drug use habits. Below is a blog detailing my progress on the project each week
-and is still a work in progress! 
+and is still a work in progress! Eventually, I will post any results I find as well as a research paper of my findings.
+
+
+
+# Blog:
 
 # Week 1:
       Website is up and running :)
