@@ -1,6 +1,10 @@
-# brko5178.github.io
+# Brandon Kohrt Personal Website
 
 This webpage serves as a log for all the work Brandon Kohrt has and will be doing in CU Boulder's Professional Development in Computer Science class.
+
+This class is focusing on a self-selected project. I have chosen to do a research project using data from the Adolescent Brain and Cognitive Development (ABCD)
+study focusing on gifted and talented children and thier alchohol and drug use habits. Below is a blog detailing my progress on the project each week
+and is still a work in progress!
 
 # Week 1:
       Website is up and running :)
