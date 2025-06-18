@@ -1,9 +1,9 @@
 # Brandon Kohrt Personal Website      
 
 
-<img alignment="center" src="profilepic2.jpg" alt="Profle"/> <a href="Brandon.Kohrt.Resume.pdf" target="_blank">
+<img alignment="center" src="profilepic2.jpg" alt="Profle"/> 
 
-Resume</a> | Email: brko5178@colorado.edu | Github: [brko5178](https://github.com/brko5178)
+<a href="Brandon.Kohrt.Resume.pdf" target="_blank">Resume</a> | Email: brko5178@colorado.edu | Github: [brko5178](https://github.com/brko5178)
 
 # Background
   I originally graduated from CU Boulder in 2023 with a degree in neuroscience and one in psychology. I currently work as a research assistant for the The Adolescent Brain and Cognitive Development study, which is a nationwide longitudinal study that is looking at the brain development of adolescents aged 10-20. 
