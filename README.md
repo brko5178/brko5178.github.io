@@ -5,11 +5,16 @@
   <img src="profilepic2.jpg" alt="Prifle"/>
 </p>
 
+<a href="Brandon.Kohrt.Resume.pdf" target="_blank">Resume</a>
+
+Email: brko5178@colorado.edu  Github: [brko5178](https://github.com/brko5178)
+ 
 This webpage serves as a log for all the work Brandon Kohrt has and will be doing in CU Boulder's Professional Development in Computer Science class.
+Currently working to get all the information down and then will focus on aesthetics!
 
 This class is focusing on a self-selected project. I have chosen to do a research project using data from the Adolescent Brain and Cognitive Development (ABCD)
 study focusing on gifted and talented children and thier alchohol and drug use habits. Below is a blog detailing my progress on the project each week
-and is still a work in progress!
+and is still a work in progress! 
 
 # Week 1:
       Website is up and running :)
