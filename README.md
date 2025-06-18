@@ -1,4 +1,9 @@
-# Brandon Kohrt Personal Website
+# Brandon Kohrt Personal Website      
+
+
+<p float:"right">
+  <img src="profilepic2.jpg" alt="Prifle"/>
+</p>
 
 This webpage serves as a log for all the work Brandon Kohrt has and will be doing in CU Boulder's Professional Development in Computer Science class.
 
