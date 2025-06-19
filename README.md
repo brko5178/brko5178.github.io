@@ -67,3 +67,17 @@ and is still a work in progress! Eventually, I will post any results I find as w
       My biggest blocker is all of the datasets do not have easy-to-read names, so I have been emailing with a colleague who works in processing the data 
       to point me in the direction I need.
 
+# Week 5:
+      Last week I worked a lot more on my personal website and made sure to get a lot more of the 
+      necessary information on to it including my resume, contact information, and a solid introduction and explanation of the           
+      website along with my blog. In the future I would like to separate some of these things into different pages on my website 
+      and get some better html/css going so that the website looks more professional!
+
+      This week I am doing a literature review of gifted and talented students as well as substance use papers from the ABCD study. 
+      This will help me get a better idea of the types of statistical analyses that are common for these types of papers. It will 
+      also be important to see if I am looking at a new question in the research or if I will be trying to confirm or refute previous findings. 
+      This will also help when I go to write up the results in a paper so I can stay consistent with my formatting.
+
+      It will take a while to sort through all of the papers and then also read the ones that I choose, which is the only thing in my way at the moment.
+
+      I think I am doing a good job so far of doing manageable chunks of the project and staying on top of my pseudo-schedule 
