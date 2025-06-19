@@ -1,17 +1,19 @@
 # Brandon Kohrt Personal Website      
 
 
-<img alignment="center" src="profilepic2.jpg" alt="Profle"/> 
+<p align="center">
+  <img src="profilepic2.jpg" />
+</p>
 
-<a href="Brandon.Kohrt.Resume.pdf" target="_blank">Resume</a> | Email: brko5178@colorado.edu | Github: [brko5178](https://github.com/brko5178)
+<p align="center">
+  <a href="Brandon.Kohrt.Resume.pdf" target="_blank">Resume</a> | Email: brko5178@colorado.edu | Github: <a href="https://github.com/brko5178" target="_blank">brko5178</a>
+</p>
 
 # Background
-  I originally graduated from CU Boulder in 2023 with a degree in neuroscience and one in psychology. I currently work as a research assistant for the The Adolescent Brain and Cognitive Development study, which is a nationwide longitudinal study that is looking at the brain development of adolescents aged 10-20. 
+  Hi, my name is Brandon Kohrt! I originally graduated from CU Boulder in 2023 with a degree in neuroscience and one in psychology. I currently work as a research assistant for the The Adolescent Brain and Cognitive Development study, which is a nationwide longitudinal study that is looking at the brain development of adolescents aged 10-20. 
   
 I started in the University of Colorado Boulder Computer Science Program program to learn some skills to help me in research and because I was very interested in software engineering and will be graduating in August of 2025. I hope to combine my previous neuro/psych experience with the CU Boulder Computer Science Program to work in the healthcare technology space or go to graduate school for computational neuroscience! 
  
-
-*Currently working to get all the information down and then will focus on aesthetics!*
 
 # Purpose
 This page serves as a personal website to showcase some of my past and current projects, and particularly focuses on my project for my last computer science class: Professional Development!
