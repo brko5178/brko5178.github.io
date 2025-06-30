@@ -83,3 +83,21 @@ and is still a work in progress! Eventually, I will post any results I find as w
       It will take a while to sort through all of the papers and then also read the ones that I choose, which is the only thing in my way at the moment.
 
       I think I am doing a good job so far of doing manageable chunks of the project and staying on top of my pseudo-schedule 
+
+# Week 6:
+      Last week I completed a literature review of several different papers regarding substance use in the ABCD Study, 
+      School Success, and Gifted and Talented Children. I learned a lot regarding the research that has been        
+      conducted so far in these fields, the types of analysis that are often done, and what my research question is fulfilling 
+      in the grand scheme of things.
+
+      This week I started working on a python script that will allow my to import data from an excel file from the ABCD data 
+      and sort it based on the kids who are listed as GT or not. This will allow me to put together a         
+      dataset that consists only of the questions and answers I care about and will be neatly separated into GT and non-GT groups. 
+      The goal is that I will be able to do this with any survey results from an ABCD source.
+
+      I feel my process for this was good. I have a decent amount of experience working with data 
+      at this point, and the format of the data is all very consistent. I should add in a way 
+      to check for any errors during processing if one of the surveys is set up differently just in case.
+
+      One thing in my way is that the data repository website is currently under maintenance , so if there 
+      is any extra piece of data I want to look at that I did not originally download, I will have to wait.
