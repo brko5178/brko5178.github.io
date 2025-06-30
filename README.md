@@ -52,11 +52,15 @@ and is still a work in progress! Eventually, I will post any results I find as w
       This week I will continue working on my website github page and start focusing in on what my project will look at.
 
 # Week 3:
-      Last week I really decided what to do my project on. I would like to look at correlations between success in school and substance use particularly in the group of kids who are labeled "gifted" or "talented". I will         also be using the ABCD Study data I have access to.
+      Last week I really decided what to do my project on. I would like to look at correlations between success 
+      in school and substance use particularly in the group of kids who are labeled "gifted" or "talented". I will         
+      also be using the ABCD Study data I have access to.
 
-      This week I woked on and turned in my project proposal which outlined the project, my goals, what I will personally get out of it, and measurable acheivements for the project. 
+      This week I woked on and turned in my project proposal which outlined the project, my goals, what I will 
+      personally get out of it, and measurable acheivements for the project. 
 
-      A relatively short update this week, but I plan to start wokring on the project in the upcoming week which will have a more substantive update!
+      A relatively short update this week, but I plan to start wokring on the project 
+      in the upcoming week which will have a more substantive update!
 
 # Week 4:
       Last week I completed my project proposal and submitted it for review and zeroed in on what I want to focus on for my research project.
