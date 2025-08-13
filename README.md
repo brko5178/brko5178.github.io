@@ -195,5 +195,7 @@ and is still a work in progress! Eventually, I will post any results I find as w
       There are no blockers in my way besides getting myself to actually write.
       
 # Week 13:
-      Last week I started writing my report, and this week I have finished my report! It can be found here. I also Finished 
-      my Final project report for the CSPB class as well
+<p align="center">
+   Last week I started writing my report, and this week I have finished my report! It can be found <a href="GTPaper.pdf" target="_blank">here</a>.
+</p>
+  I also finished my Final project report for the CSPB class as well!
